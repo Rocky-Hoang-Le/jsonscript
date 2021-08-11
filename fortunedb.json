@@ -1,0 +1,4312 @@
+{
+	"Fortunes": [
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "1"
+					},
+					"Fortune": {
+						"S": "A beautiful, smart, and loving person will be coming into your life."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "2"
+					},
+					"Fortune": {
+						"S": "A dubious friend may be an enemy in camouflage."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "3"
+					},
+					"Fortune": {
+						"S": "A faithful friend is a strong defense."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "4"
+					},
+					"Fortune": {
+						"S": "A feather in the hand is better than a bird in the air."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "5"
+					},
+					"Fortune": {
+						"S": "A fresh start will put you on your way."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "6"
+					},
+					"Fortune": {
+						"S": "A friend asks only for your time not your money."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "7"
+					},
+					"Fortune": {
+						"S": "A friend is a present you give yourself."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "8"
+					},
+					"Fortune": {
+						"S": "A gambler not only will lose what he has, but also will lose what he doesn’t have."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "9"
+					},
+					"Fortune": {
+						"S": "A golden egg of opportunity falls into your lap this month."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "10"
+					},
+					"Fortune": {
+						"S": "A good friendship is often more important than a passionate romance."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "11"
+					},
+					"Fortune": {
+						"S": "A good time to finish up old tasks."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "12"
+					},
+					"Fortune": {
+						"S": "A hunch is creativity trying to tell you something."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "13"
+					},
+					"Fortune": {
+						"S": "A lifetime friend shall soon be made."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "14"
+					},
+					"Fortune": {
+						"S": "A lifetime of happiness lies ahead of you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "15"
+					},
+					"Fortune": {
+						"S": "A light heart carries you through all the hard times."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "16"
+					},
+					"Fortune": {
+						"S": "A new perspective will come with the new year."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "17"
+					},
+					"Fortune": {
+						"S": "A person is never to (sic) old to learn."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "18"
+					},
+					"Fortune": {
+						"S": "A person of words and not deeds is like a garden full of weeds."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "19"
+					},
+					"Fortune": {
+						"S": "A pleasant surprise is waiting for you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "20"
+					},
+					"Fortune": {
+						"S": "A short pencil is usually better than a long memory any day."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "21"
+					},
+					"Fortune": {
+						"S": "A small donation is call for. It’s the right thing to do."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "22"
+					},
+					"Fortune": {
+						"S": "A smile is your personal welcome mat."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "23"
+					},
+					"Fortune": {
+						"S": "A smooth long journey! Great expectations."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "24"
+					},
+					"Fortune": {
+						"S": "A soft voice may be awfully persuasive."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "25"
+					},
+					"Fortune": {
+						"S": "A truly rich life contains love and art in abundance."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "26"
+					},
+					"Fortune": {
+						"S": "Accept something that you cannot change, and you will feel better."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "27"
+					},
+					"Fortune": {
+						"S": "Adventure can be real happiness."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "28"
+					},
+					"Fortune": {
+						"S": "Advice is like kissing. It costs nothing and is a pleasant thing to do."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "29"
+					},
+					"Fortune": {
+						"S": "Advice, when most needed, is least heeded."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "30"
+					},
+					"Fortune": {
+						"S": "All the effort you are making will ultimately pay off."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "31"
+					},
+					"Fortune": {
+						"S": "All the troubles you have will pass away very quickly."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "32"
+					},
+					"Fortune": {
+						"S": "All will go well with your new project."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "33"
+					},
+					"Fortune": {
+						"S": "All your hard work will soon pay off."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "34"
+					},
+					"Fortune": {
+						"S": "Allow compassion to guide your decisions."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "35"
+					},
+					"Fortune": {
+						"S": "An acquaintance of the past will affect you in the near future."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "36"
+					},
+					"Fortune": {
+						"S": "An agreeable romance might begin to take on the appearance."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "37"
+					},
+					"Fortune": {
+						"S": "An important person will offer you support."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "38"
+					},
+					"Fortune": {
+						"S": "An inch of time is an inch of gold."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "39"
+					},
+					"Fortune": {
+						"S": "Any decision you have to make tomorrow is a good decision."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "40"
+					},
+					"Fortune": {
+						"S": "At the touch of love, everyone becomes a poet."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "41"
+					},
+					"Fortune": {
+						"S": "Be careful or you could fall for some tricks today."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "42"
+					},
+					"Fortune": {
+						"S": "Beauty in its various forms appeals to you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "43"
+					},
+					"Fortune": {
+						"S": "Because you demand more from yourself, others respect you deeply."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "44"
+					},
+					"Fortune": {
+						"S": "Believe in yourself and others will too."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "45"
+					},
+					"Fortune": {
+						"S": "Believe it can be done."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "46"
+					},
+					"Fortune": {
+						"S": "Better ask twice than lose yourself once."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "47"
+					},
+					"Fortune": {
+						"S": "Bide your time, for success is near."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "48"
+					},
+					"Fortune": {
+						"S": "Carve your name on your heart and not on marble."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "49"
+					},
+					"Fortune": {
+						"S": "Change is happening in your life, so go with the flow!"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "50"
+					},
+					"Fortune": {
+						"S": "Competence like yours is underrated."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "51"
+					},
+					"Fortune": {
+						"S": "Congratulations! You are on your way."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "52"
+					},
+					"Fortune": {
+						"S": "Could I get some directions to your heart?"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "53"
+					},
+					"Fortune": {
+						"S": "Courtesy begins in the home."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "54"
+					},
+					"Fortune": {
+						"S": "Courtesy is contagious."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "55"
+					},
+					"Fortune": {
+						"S": "Curiosity kills boredom. Nothing can kill curiosity."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "56"
+					},
+					"Fortune": {
+						"S": "Dedicate yourself with a calm mind to the task at hand."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "57"
+					},
+					"Fortune": {
+						"S": "Depart not from the path which fate has you assigned."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "58"
+					},
+					"Fortune": {
+						"S": "Determination is what you need now."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "59"
+					},
+					"Fortune": {
+						"S": "Diligence and modesty can raise your social status."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "60"
+					},
+					"Fortune": {
+						"S": "Disbelief destroys the magic."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "61"
+					},
+					"Fortune": {
+						"S": "Distance yourself from the vain."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "62"
+					},
+					"Fortune": {
+						"S": "Do not be intimidated by the eloquence of others."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "63"
+					},
+					"Fortune": {
+						"S": "Do not demand for someone’s soul if you already got his heart."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "64"
+					},
+					"Fortune": {
+						"S": "Do not let ambitions overshadow small success."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "65"
+					},
+					"Fortune": {
+						"S": "Do not make extra work for yourself."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "66"
+					},
+					"Fortune": {
+						"S": "Do not underestimate yourself. Human beings have unlimited potentials."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "67"
+					},
+					"Fortune": {
+						"S": "Do you know that the busiest person has the largest amount of time?"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "68"
+					},
+					"Fortune": {
+						"S": "Don’t be discouraged, because every wrong attempt discarded is another step forward."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "69"
+					},
+					"Fortune": {
+						"S": "Don’t confuse recklessness with confidence."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "70"
+					},
+					"Fortune": {
+						"S": "Don’t just spend time. Invest it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "71"
+					},
+					"Fortune": {
+						"S": "Don’t just think, act!"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "72"
+					},
+					"Fortune": {
+						"S": "Don’t let friends impose on you, work calmly and silently."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "73"
+					},
+					"Fortune": {
+						"S": "Don’t let the past and useless detail choke your existence."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "74"
+					},
+					"Fortune": {
+						"S": "Don’t let your limitations overshadow your talents."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "75"
+					},
+					"Fortune": {
+						"S": "Don’t worry; prosperity will knock on your door soon."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "76"
+					},
+					"Fortune": {
+						"S": "Each day, compel yourself to do something you would rather not do."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "77"
+					},
+					"Fortune": {
+						"S": "Education is the ability to meet life’s situations."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "78"
+					},
+					"Fortune": {
+						"S": "Embrace this love relationship you have!"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "79"
+					},
+					"Fortune": {
+						"S": "Emulate what you admire in your parents."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "80"
+					},
+					"Fortune": {
+						"S": "Emulate what you respect in your friends."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "81"
+					},
+					"Fortune": {
+						"S": "Every flower blooms in its own sweet time."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "82"
+					},
+					"Fortune": {
+						"S": "Every wise man started out by asking many questions."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "83"
+					},
+					"Fortune": {
+						"S": "Everyday in your life is a special occasion."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "84"
+					},
+					"Fortune": {
+						"S": "Everywhere you choose to go, friendly faces will greet you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "85"
+					},
+					"Fortune": {
+						"S": "Expect much of yourself and little of others."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "86"
+					},
+					"Fortune": {
+						"S": "Failure is the chance to do better next time."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "87"
+					},
+					"Fortune": {
+						"S": "Failure is the path of lease persistence."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "88"
+					},
+					"Fortune": {
+						"S": "Fear and desire – two sides of the same coin."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "89"
+					},
+					"Fortune": {
+						"S": "Fearless courage is the foundation of victory."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "90"
+					},
+					"Fortune": {
+						"S": "Feeding a cow with roses does not get extra appreciation."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "91"
+					},
+					"Fortune": {
+						"S": "First think of what you want to do; then do what you have to do."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "92"
+					},
+					"Fortune": {
+						"S": "Follow the middle path. Neither extreme will make you happy."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "93"
+					},
+					"Fortune": {
+						"S": "For hate is never conquered by hate. Hate is conquered by love."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "94"
+					},
+					"Fortune": {
+						"S": "For the things we have to learn before we can do them, we learn by doing them."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "95"
+					},
+					"Fortune": {
+						"S": "Fortune Not Found: Abort, Retry, Ignore?"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "96"
+					},
+					"Fortune": {
+						"S": "From listening comes wisdom and from speaking repentance."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "97"
+					},
+					"Fortune": {
+						"S": "From now on your kindness will lead you to success."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "98"
+					},
+					"Fortune": {
+						"S": "Get your mind set – confidence will lead you on."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "99"
+					},
+					"Fortune": {
+						"S": "Get your mind set…confidence will lead you on."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "100"
+					},
+					"Fortune": {
+						"S": "Go for the gold today! You’ll be the champion of whatever."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "101"
+					},
+					"Fortune": {
+						"S": "Go take a rest; you deserve it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "102"
+					},
+					"Fortune": {
+						"S": "Good news will be brought to you by mail."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "103"
+					},
+					"Fortune": {
+						"S": "Good news will come to you by mail."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "104"
+					},
+					"Fortune": {
+						"S": "Good to begin well, better to end well."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "105"
+					},
+					"Fortune": {
+						"S": "Happiness begins with facing life with a smile and a wink."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "106"
+					},
+					"Fortune": {
+						"S": "Happiness will bring you good luck."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "107"
+					},
+					"Fortune": {
+						"S": "Happy life is just in front of you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "108"
+					},
+					"Fortune": {
+						"S": "Hard words break no bones, fine words butter no parsnips."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "109"
+					},
+					"Fortune": {
+						"S": "Have a beautiful day."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "110"
+					},
+					"Fortune": {
+						"S": "He who expects no gratitude shall never be disappointed."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "111"
+					},
+					"Fortune": {
+						"S": "He who knows he has enough is rich."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "112"
+					},
+					"Fortune": {
+						"S": "He who knows others is wise. He who knows himself is enlightened."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "113"
+					},
+					"Fortune": {
+						"S": "Help! I’m being held prisoner in a chinese bakery!"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "114"
+					},
+					"Fortune": {
+						"S": "How many of you believe in psycho-kinesis? Raise my hand."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "115"
+					},
+					"Fortune": {
+						"S": "How you look depends on where you go."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "116"
+					},
+					"Fortune": {
+						"S": "I learn by going where I have to go."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "117"
+					},
+					"Fortune": {
+						"S": "If a true sense of value is to be yours it must come through service."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "118"
+					},
+					"Fortune": {
+						"S": "If certainty were truth, we would never be wrong."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "119"
+					},
+					"Fortune": {
+						"S": "If you continually give, you will continually have."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "120"
+					},
+					"Fortune": {
+						"S": "If you look in the right places, you can find some good offerings."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "121"
+					},
+					"Fortune": {
+						"S": "If you think you can do a thing or think you can’t do a thing, you’re right."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "122"
+					},
+					"Fortune": {
+						"S": "If you wish to see the best in others, show the best of yourself."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "123"
+					},
+					"Fortune": {
+						"S": "If your desires are not extravagant, they will be granted."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "124"
+					},
+					"Fortune": {
+						"S": "If your desires are not to extravagant they will be granted."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "125"
+					},
+					"Fortune": {
+						"S": "If you’re feeling down, try throwing yourself into your work."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "126"
+					},
+					"Fortune": {
+						"S": "Imagination rules the world."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "127"
+					},
+					"Fortune": {
+						"S": "In order to take, one must first give."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "128"
+					},
+					"Fortune": {
+						"S": "In the end all things will be known."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "129"
+					},
+					"Fortune": {
+						"S": "In this world of contradiction, It’s better to be merry than wise."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "130"
+					},
+					"Fortune": {
+						"S": "It could be better, but its [sic] good enough."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "131"
+					},
+					"Fortune": {
+						"S": "It is better to be an optimist and proven a fool than to be a pessimist and be proven right."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "132"
+					},
+					"Fortune": {
+						"S": "It is better to deal with problems before they arise."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "133"
+					},
+					"Fortune": {
+						"S": "It is honorable to stand up for what is right, however unpopular it seems."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "134"
+					},
+					"Fortune": {
+						"S": "It is worth reviewing some old lessons."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "135"
+					},
+					"Fortune": {
+						"S": "It takes courage to admit fault."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "136"
+					},
+					"Fortune": {
+						"S": "It’s not the amount of time you devote, but what you devote to the time that counts."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "137"
+					},
+					"Fortune": {
+						"S": "It’s time to get moving. Your spirits will lift accordingly."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "138"
+					},
+					"Fortune": {
+						"S": "Keep your face to the sunshine and you will never see shadows."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "139"
+					},
+					"Fortune": {
+						"S": "Let the world be filled with tranquility and goodwill."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "140"
+					},
+					"Fortune": {
+						"S": "Like the river flow into the sea. Something are just meant to be."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "141"
+					},
+					"Fortune": {
+						"S": "Listen not to vain words of empty tongue."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "142"
+					},
+					"Fortune": {
+						"S": "Listen to everyone. Ideas come from everywhere."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "143"
+					},
+					"Fortune": {
+						"S": "Living with a commitment to excellence shall take you far."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "144"
+					},
+					"Fortune": {
+						"S": "Long life is in store for you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "145"
+					},
+					"Fortune": {
+						"S": "Love is a warm fire to keep the soul warm."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "146"
+					},
+					"Fortune": {
+						"S": "Love is like sweet medicine, good to the last drop."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "147"
+					},
+					"Fortune": {
+						"S": "Love lights up the world."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "148"
+					},
+					"Fortune": {
+						"S": "Love truth, but pardon error."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "149"
+					},
+					"Fortune": {
+						"S": "Man is born to live and not prepared to live."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "150"
+					},
+					"Fortune": {
+						"S": "Man’s mind, once stretched by a new idea, never regains it’s original dimensions."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "151"
+					},
+					"Fortune": {
+						"S": "Many will travel to hear you speak."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "152"
+					},
+					"Fortune": {
+						"S": "Meditation with an old enemy is advised."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "153"
+					},
+					"Fortune": {
+						"S": "Miles are covered one step at a time."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "154"
+					},
+					"Fortune": {
+						"S": "Nature, time and patience are the three great physicians."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "155"
+					},
+					"Fortune": {
+						"S": "Never fear! The end of something marks the start of something new."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "156"
+					},
+					"Fortune": {
+						"S": "New ideas could be profitable."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "157"
+					},
+					"Fortune": {
+						"S": "New people will bring you new realizations, especially about big issues."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "158"
+					},
+					"Fortune": {
+						"S": "No one can walk backwards into the future."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "159"
+					},
+					"Fortune": {
+						"S": "Nothing is more difficult, and therefore more precious, than to be able to decide."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "160"
+					},
+					"Fortune": {
+						"S": "Now is a good time to buy stock."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "161"
+					},
+					"Fortune": {
+						"S": "Now is the time to go ahead and pursue that love interest!"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "162"
+					},
+					"Fortune": {
+						"S": "Now is the time to try something new"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "163"
+					},
+					"Fortune": {
+						"S": "Now is the time to try something new."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "164"
+					},
+					"Fortune": {
+						"S": "Observe all men, but most of all yourself."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "165"
+					},
+					"Fortune": {
+						"S": "One can never fill another’s shoes, rather he must outgrow the old shoes."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "166"
+					},
+					"Fortune": {
+						"S": "One of the first things you should look for in a problem is its positive side."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "167"
+					},
+					"Fortune": {
+						"S": "Others can help you now."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "168"
+					},
+					"Fortune": {
+						"S": "Pennies from heaven find their way to your doorstep this year!"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "169"
+					},
+					"Fortune": {
+						"S": "People are attracted by your Delicate [sic] features."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "170"
+					},
+					"Fortune": {
+						"S": "People find it difficult to resist your persuasive manner."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "171"
+					},
+					"Fortune": {
+						"S": "Perhaps you’ve been focusing too much on saving."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "172"
+					},
+					"Fortune": {
+						"S": "Physical activity will dramatically improve your outlook today."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "173"
+					},
+					"Fortune": {
+						"S": "Pick battles big enough to matter, small enough to win."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "174"
+					},
+					"Fortune": {
+						"S": "Place special emphasis on old friendship."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "175"
+					},
+					"Fortune": {
+						"S": "Please visit us at www.wontonfood.com"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "176"
+					},
+					"Fortune": {
+						"S": "Po Says: Pandas like eating bamboo, but I prefer mine dipped in chocolate."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "177"
+					},
+					"Fortune": {
+						"S": "Practice makes perfect."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "178"
+					},
+					"Fortune": {
+						"S": "Protective measures will prevent costly disasters."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "179"
+					},
+					"Fortune": {
+						"S": "Put your mind into planning today. Look into the future."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "180"
+					},
+					"Fortune": {
+						"S": "Remember the birthday but never the age."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "181"
+					},
+					"Fortune": {
+						"S": "Remember to share good fortune as well as bad with your friends."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "182"
+					},
+					"Fortune": {
+						"S": "Rest has a peaceful effect on your physical and emotional health."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "183"
+					},
+					"Fortune": {
+						"S": "Resting well is as important as working hard."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "184"
+					},
+					"Fortune": {
+						"S": "Romance moves you in a new direction."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "185"
+					},
+					"Fortune": {
+						"S": "Savor your freedom – it is precious."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "186"
+					},
+					"Fortune": {
+						"S": "Say hello to others. You will have a happier day."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "187"
+					},
+					"Fortune": {
+						"S": "Self-knowledge is a life long process."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "188"
+					},
+					"Fortune": {
+						"S": "Share your joys and sorrows with your family."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "189"
+					},
+					"Fortune": {
+						"S": "Sift through your past to get a better idea of the present."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "190"
+					},
+					"Fortune": {
+						"S": "Sloth makes all things difficult; industry all easy."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "191"
+					},
+					"Fortune": {
+						"S": "Small confidences mark the onset of a friendship."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "192"
+					},
+					"Fortune": {
+						"S": "Society prepares the crime; the criminal commits it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "193"
+					},
+					"Fortune": {
+						"S": "Someone you care about seeks reconciliation."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "194"
+					},
+					"Fortune": {
+						"S": "Soon life will become more interesting."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "195"
+					},
+					"Fortune": {
+						"S": "Stand tall. Don’t look down upon yourself."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "196"
+					},
+					"Fortune": {
+						"S": "Staying close to home is going to be best for your morale today"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "197"
+					},
+					"Fortune": {
+						"S": "Stop searching forever, happiness is just next to you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "198"
+					},
+					"Fortune": {
+						"S": "Strong reasons make strong actions."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "199"
+					},
+					"Fortune": {
+						"S": "Success is a journey, not a destination."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "200"
+					},
+					"Fortune": {
+						"S": "Success is failure turned inside out."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "201"
+					},
+					"Fortune": {
+						"S": "Success is going from failure to failure without loss of enthusiasm."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "202"
+					},
+					"Fortune": {
+						"S": "Swimming is easy. Stay floating is hard."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "203"
+					},
+					"Fortune": {
+						"S": "Take care and sensitivity you show towards others will return to you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "204"
+					},
+					"Fortune": {
+						"S": "Take the high road."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "205"
+					},
+					"Fortune": {
+						"S": "Technology is the art of arranging the world so we do not notice it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "206"
+					},
+					"Fortune": {
+						"S": "The austerity you see around you covers the richness of life like a veil."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "207"
+					},
+					"Fortune": {
+						"S": "The best prediction of future is the past."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "208"
+					},
+					"Fortune": {
+						"S": "The change you started already have far-reaching effects. Be ready."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "209"
+					},
+					"Fortune": {
+						"S": "The change you started already have far-reaching effects. Be ready."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "210"
+					},
+					"Fortune": {
+						"S": "The first man gets the oyster, the second man gets the shell."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "211"
+					},
+					"Fortune": {
+						"S": "The greatest achievement in life is to stand up again after falling."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "212"
+					},
+					"Fortune": {
+						"S": "The harder you work, the luckier you get."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "213"
+					},
+					"Fortune": {
+						"S": "The night life is for you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "214"
+					},
+					"Fortune": {
+						"S": "The one that recognizes the illusion does not act as if it is real."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "215"
+					},
+					"Fortune": {
+						"S": "The only people who never fail are those who never try."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "216"
+					},
+					"Fortune": {
+						"S": "The person who will not stand for something will fall for anything."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "217"
+					},
+					"Fortune": {
+						"S": "The philosophy of one century is the common sense of the next."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "218"
+					},
+					"Fortune": {
+						"S": "The saints are the sinners who keep on trying."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "219"
+					},
+					"Fortune": {
+						"S": "The secret to good friends is no secret to you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "220"
+					},
+					"Fortune": {
+						"S": "The small courtesies sweeten life, the greater ennoble it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "221"
+					},
+					"Fortune": {
+						"S": "The smart thing to do is to begin trusting your intuitions."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "222"
+					},
+					"Fortune": {
+						"S": "The strong person understands how to withstand substantial loss."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "223"
+					},
+					"Fortune": {
+						"S": "The sure way to predict the future is to invent it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "224"
+					},
+					"Fortune": {
+						"S": "The truly generous share, even with the undeserving."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "225"
+					},
+					"Fortune": {
+						"S": "The value lies not within any particular thing, but in the desire placed on that thing."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "226"
+					},
+					"Fortune": {
+						"S": "The weather is wonderful."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "227"
+					},
+					"Fortune": {
+						"S": "There is a time for caution, but not for fear."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "228"
+					},
+					"Fortune": {
+						"S": "There is no mistake so great as that of being always right."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "229"
+					},
+					"Fortune": {
+						"S": "There is no wisdom greater than kindness."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "230"
+					},
+					"Fortune": {
+						"S": "There is not greater pleasure than seeing your lived (sic) ones prosper."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "231"
+					},
+					"Fortune": {
+						"S": "There’s no such thing as an ordinary cat."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "232"
+					},
+					"Fortune": {
+						"S": "Things don’t just happen; they happen just."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "233"
+					},
+					"Fortune": {
+						"S": "Those who care will make the effort."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "234"
+					},
+					"Fortune": {
+						"S": "Time and patience are called for many surprises await you!. (sic)"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "235"
+					},
+					"Fortune": {
+						"S": "Time is precious, but truth is more precious than time"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "236"
+					},
+					"Fortune": {
+						"S": "To know oneself, one should assert oneself."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "237"
+					},
+					"Fortune": {
+						"S": "To the world you may be one person, but to one person you may be the world."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "238"
+					},
+					"Fortune": {
+						"S": "Today is the conserve yourself, as things just won’t budge."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "239"
+					},
+					"Fortune": {
+						"S": "Today, your mouth might be moving but no one is listening."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "240"
+					},
+					"Fortune": {
+						"S": "Tonight you will be blinded by passion."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "241"
+					},
+					"Fortune": {
+						"S": "Use your eloquence where it will do the most good."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "242"
+					},
+					"Fortune": {
+						"S": "We first make our habits, and then our habits make us."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "243"
+					},
+					"Fortune": {
+						"S": "Welcome change."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "244"
+					},
+					"Fortune": {
+						"S": "“Welcome” is a powerful word."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "245"
+					},
+					"Fortune": {
+						"S": "Well done is better than well said."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "246"
+					},
+					"Fortune": {
+						"S": "What’s hidden in an empty box?"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "247"
+					},
+					"Fortune": {
+						"S": "What’s yours in mine, and what’s mine is mine."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "248"
+					},
+					"Fortune": {
+						"S": "When more become too much. It’s same as being not enough."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "249"
+					},
+					"Fortune": {
+						"S": "When your heart is pure, your mind is clear."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "250"
+					},
+					"Fortune": {
+						"S": "Wish you happiness."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "251"
+					},
+					"Fortune": {
+						"S": "With age comes wisdom."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "252"
+					},
+					"Fortune": {
+						"S": "You (sic) adventure could lead to happiness."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "253"
+					},
+					"Fortune": {
+						"S": "You always bring others happiness."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "254"
+					},
+					"Fortune": {
+						"S": "You are a person of another time."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "255"
+					},
+					"Fortune": {
+						"S": "You are a talented storyteller."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "256"
+					},
+					"Fortune": {
+						"S": "You are admired by everyone for your talent and ability."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "257"
+					},
+					"Fortune": {
+						"S": "You are almost there."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "258"
+					},
+					"Fortune": {
+						"S": "You are busy, but you are happy."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "259"
+					},
+					"Fortune": {
+						"S": "You are generous to an extreme and always think of the other fellow."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "260"
+					},
+					"Fortune": {
+						"S": "You are going to have some new clothes."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "261"
+					},
+					"Fortune": {
+						"S": "You are in good hands this evening."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "262"
+					},
+					"Fortune": {
+						"S": "You are interested in higher education, whether material or spiritual."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "263"
+					},
+					"Fortune": {
+						"S": "You are modest and courteous."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "264"
+					},
+					"Fortune": {
+						"S": "You are never selfish with your advice or your help."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "265"
+					},
+					"Fortune": {
+						"S": "You are next in line for promotion in your firm."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "266"
+					},
+					"Fortune": {
+						"S": "You are offered the dream of a lifetime. Say yes!"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "267"
+					},
+					"Fortune": {
+						"S": "You are open-minded and quick to make new friends."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "268"
+					},
+					"Fortune": {
+						"S": "You are solid and dependable."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "269"
+					},
+					"Fortune": {
+						"S": "You are soon going to change your present line of work."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "270"
+					},
+					"Fortune": {
+						"S": "You are talented in many ways."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "271"
+					},
+					"Fortune": {
+						"S": "You are the master of every situation."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "272"
+					},
+					"Fortune": {
+						"S": "You are very expressive and positive in words, act and feeling."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "273"
+					},
+					"Fortune": {
+						"S": "You are working hard."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "274"
+					},
+					"Fortune": {
+						"S": "You begin to appreciate how important it is to share your personal beliefs."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "275"
+					},
+					"Fortune": {
+						"S": "You can keep a secret."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "276"
+					},
+					"Fortune": {
+						"S": "You can see a lot just by looking."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "277"
+					},
+					"Fortune": {
+						"S": "You can’t steal second base and keep your foot on first."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "278"
+					},
+					"Fortune": {
+						"S": "You desire recognition and you will find it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "279"
+					},
+					"Fortune": {
+						"S": "You have a deep appreciation of the arts and music."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "280"
+					},
+					"Fortune": {
+						"S": "You have a deep interest in all that is artistic."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "281"
+					},
+					"Fortune": {
+						"S": "You have a friendly heart and are well admired."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "282"
+					},
+					"Fortune": {
+						"S": "You have a shrewd knack for spotting insincerity."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "283"
+					},
+					"Fortune": {
+						"S": "You have a yearning for perfection. (3)"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "284"
+					},
+					"Fortune": {
+						"S": "You have an active mind and a keen imagination."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "285"
+					},
+					"Fortune": {
+						"S": "You have an ambitious nature and may make a name for yourself."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "286"
+					},
+					"Fortune": {
+						"S": "You have an unusual equipment for success, use it properly."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "287"
+					},
+					"Fortune": {
+						"S": "You have exceeded what was expected."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "288"
+					},
+					"Fortune": {
+						"S": "You have had a good start. Work harder!"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "289"
+					},
+					"Fortune": {
+						"S": "You have the power to write your own fortune."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "290"
+					},
+					"Fortune": {
+						"S": "You have yearning for perfection."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "291"
+					},
+					"Fortune": {
+						"S": "You know where you are going and how to get there."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "292"
+					},
+					"Fortune": {
+						"S": "You look pretty."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "293"
+					},
+					"Fortune": {
+						"S": "You love challenge."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "294"
+					},
+					"Fortune": {
+						"S": "You love chinese food."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "295"
+					},
+					"Fortune": {
+						"S": "You make people realize that there exist other beauties in the world."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "296"
+					},
+					"Fortune": {
+						"S": "You never hesitate to tackle the most difficult problems."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "297"
+					},
+					"Fortune": {
+						"S": "You never know who you touch."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "298"
+					},
+					"Fortune": {
+						"S": "You only treasure what you lost."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "299"
+					},
+					"Fortune": {
+						"S": "You seek to shield those you love and like the role of provider."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "300"
+					},
+					"Fortune": {
+						"S": "You should be able to make money and hold on to it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "301"
+					},
+					"Fortune": {
+						"S": "You should be able to undertake and complete anything."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "302"
+					},
+					"Fortune": {
+						"S": "You should pay for this check. Be generous."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "303"
+					},
+					"Fortune": {
+						"S": "You understand how to have fun with others and to enjoy your solitude."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "304"
+					},
+					"Fortune": {
+						"S": "You will always be surrounded by true friends."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "305"
+					},
+					"Fortune": {
+						"S": "You will always get what you want through your charm and personality."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "306"
+					},
+					"Fortune": {
+						"S": "You will always have good luck in your personal affairs."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "307"
+					},
+					"Fortune": {
+						"S": "You will be a great success both in the business world and society."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "308"
+					},
+					"Fortune": {
+						"S": "You will be blessed with longevity."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "309"
+					},
+					"Fortune": {
+						"S": "You will be pleasantly surprised tonight."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "310"
+					},
+					"Fortune": {
+						"S": "You will be sharing great news with all the people you love."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "311"
+					},
+					"Fortune": {
+						"S": "You will be successful in your work."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "312"
+					},
+					"Fortune": {
+						"S": "You will be traveling and coming into a fortune."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "313"
+					},
+					"Fortune": {
+						"S": "You will be unusually successful in business."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "314"
+					},
+					"Fortune": {
+						"S": "You will become a great philanthropist in your later years."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "315"
+					},
+					"Fortune": {
+						"S": "You will become more and more wealthy."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "316"
+					},
+					"Fortune": {
+						"S": "You will enjoy good health."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "317"
+					},
+					"Fortune": {
+						"S": "You will enjoy good health; you will be surrounded by luxury."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "318"
+					},
+					"Fortune": {
+						"S": "You will find great contentment in the daily, routine activities."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "319"
+					},
+					"Fortune": {
+						"S": "You will have a fine capacity for the enjoyment of life."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "320"
+					},
+					"Fortune": {
+						"S": "You will have gold pieces by the bushel."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "321"
+					},
+					"Fortune": {
+						"S": "You will inherit a large sum of money."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "322"
+					},
+					"Fortune": {
+						"S": "You will make change for the better."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "323"
+					},
+					"Fortune": {
+						"S": "You will soon be surrounded by good friends and laughter."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "324"
+					},
+					"Fortune": {
+						"S": "You will take a chance in something in near future."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "325"
+					},
+					"Fortune": {
+						"S": "You will travel far and wide, both pleasure and business."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "326"
+					},
+					"Fortune": {
+						"S": "You will travel far and wide,both pleasure and business."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "327"
+					},
+					"Fortune": {
+						"S": "Your abilities are unparalleled."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "328"
+					},
+					"Fortune": {
+						"S": "Your ability is appreciated."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "329"
+					},
+					"Fortune": {
+						"S": "Your ability to juggle many tasks will take you far."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "330"
+					},
+					"Fortune": {
+						"S": "Your biggest virtue is your modesty."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "331"
+					},
+					"Fortune": {
+						"S": "Your character can be described as natural and unrestrained."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "332"
+					},
+					"Fortune": {
+						"S": "Your difficulties will strengthen you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "333"
+					},
+					"Fortune": {
+						"S": "Your dreams are never silly; depend on them to guide you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "334"
+					},
+					"Fortune": {
+						"S": "Your dreams are worth your best efforts to achieve them."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "335"
+					},
+					"Fortune": {
+						"S": "Your energy returns and you get things done."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "336"
+					},
+					"Fortune": {
+						"S": "Your family is young, gifted and attractive."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "337"
+					},
+					"Fortune": {
+						"S": "Your first love has never forgotten you."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "338"
+					},
+					"Fortune": {
+						"S": "Your goal will be reached very soon."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "339"
+					},
+					"Fortune": {
+						"S": "Your happiness is before you, not behind you! Cherish it."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "340"
+					},
+					"Fortune": {
+						"S": "Your hard work will payoff today."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "341"
+					},
+					"Fortune": {
+						"S": "Your heart will always make itself known through your words."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "342"
+					},
+					"Fortune": {
+						"S": "Your home is the center of great love."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "343"
+					},
+					"Fortune": {
+						"S": "Your ideals are well within your reach."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "344"
+					},
+					"Fortune": {
+						"S": "Your infinite capacity for patience will be rewarded sooner or later."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "345"
+					},
+					"Fortune": {
+						"S": "Your leadership qualities will be tested and proven."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "346"
+					},
+					"Fortune": {
+						"S": "Your life will be happy and peaceful."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "347"
+					},
+					"Fortune": {
+						"S": "Your life will get more and more exciting."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "348"
+					},
+					"Fortune": {
+						"S": "Your love life will be happy and harmonious."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "349"
+					},
+					"Fortune": {
+						"S": "Your love of music will be an important part of your life."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "350"
+					},
+					"Fortune": {
+						"S": "Your loyalty is a virtue, but not when it’s wedded with blind stubbornness."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "351"
+					},
+					"Fortune": {
+						"S": "Your mentality is alert, practical, and analytical."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "352"
+					},
+					"Fortune": {
+						"S": "Your mind is creative, original and alert."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "353"
+					},
+					"Fortune": {
+						"S": "Your mind is your greatest asset."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "354"
+					},
+					"Fortune": {
+						"S": "Your moods signal a period of change."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "355"
+					},
+					"Fortune": {
+						"S": "Your quick wits will get you out of a tough situation."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "356"
+					},
+					"Fortune": {
+						"S": "Your reputation is your wealth."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "357"
+					},
+					"Fortune": {
+						"S": "Your success will astonish everyone."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "358"
+					},
+					"Fortune": {
+						"S": "Your talents will be recognized and suitably rewarded."
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"id": {
+						"N": "359"
+					},
+					"Fortune": {
+						"S": "Your work interests can capture the highest status or prestige."
+					}
+				}
+			}
+		}
+	]
+}
